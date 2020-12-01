@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card when props are correct should renders the component correctly 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <h1>
+      Title
+    </h1>
+    <hr />
+    <p>
+      Example text
+    </p>
+    <button>
+      Enviar
+    </button>
+    <button>
+      Esconde titulo
+    </button>
+  </div>
+</div>
+`;

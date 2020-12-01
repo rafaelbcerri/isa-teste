@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile when component starts should show Loading text 1`] = `
+<div>
+  <h1>
+    Loading...
+  </h1>
+</div>
+`;
+
+exports[`Profile when user is loaded should render 1`] = `
+<div>
+  <h1>
+    Hello
+  </h1>
+  <div
+    class="card"
+  >
+    <h1>
+      Robot
+    </h1>
+    <hr />
+    <p>
+      robot@example.com
+    </p>
+    <button>
+      Enviar
+    </button>
+    <button>
+      Esconde titulo
+    </button>
+  </div>
+  <p>
+    Banana price: 
+    R$ 2.5
+  </p>
+</div>
+`;
